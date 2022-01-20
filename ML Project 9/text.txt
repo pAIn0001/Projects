@@ -1,0 +1,13 @@
+Outputs from different models
+
+linear model marks:
+Mean: 5.030879044994037
+Std deviation: 1.0590123525777386
+
+Descisoon tree marks
+Mean: 4.23326643765729
+Std deviation: 0.838501363205236
+
+Random Forest
+Mean: 3.3516382261636557
+Std deviation: 0.6842574769039976
